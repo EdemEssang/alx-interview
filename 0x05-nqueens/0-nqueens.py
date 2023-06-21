@@ -1,4 +1,5 @@
 #!/usr/bin/python3
+
 """
 The N queens puzzle is the challenge of placing N
 non-attacking queens on an N×N chessboard.
@@ -145,5 +146,5 @@ def execute():
 
 
 if __name__ == '__main__':
-    execute()
+	execute()
 
