@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 #!/usr/bin/node
 // A script that prints all characters of a Star Wars movie
 
@@ -23,3 +24,5 @@ function sort (characters) {
     });
   }
 }
+=======
+>>>>>>> Stashed changes
