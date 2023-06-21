@@ -145,5 +145,4 @@ def execute():
         print(row)
 
 
-if __name__ == '__main__':
-   execute()
+if __name__ == '__main__':execute()
